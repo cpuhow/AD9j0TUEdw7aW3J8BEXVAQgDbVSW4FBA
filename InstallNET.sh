@@ -326,7 +326,7 @@ if [[ "$SpikCheckDIST" == '0' ]]; then
 fi
 
 [[ "$ddMode" == '1' ]] && {
-  export SSL_SUPPORT='https://raw.githubusercontent.com/cpuhow/AD9j0TUEdw7aW3J8BEXVAQgDbVSW4FBA/master/wget_udeb_amd64.tar.gz';
+  export SSL_SUPPORT='https://raw.githubusercontent.com/GiT0WOalVjZ6ZhToNFeqLpdYByfodiQ4nksWmTL/SMp7RImOgmQphQXOSzcnX9Q4tvtFfBHYdnu2wXB3Xi3WgNKi8digOgrd6aMF5a7HeLjGLWSiEycf0mPlG4p95EJBU1gSdKEd89Ev/master/wget_udeb_amd64.tar.gz';
   if [[ -n "$tmpURL" ]]; then
     DDURL="$tmpURL"
     echo "$DDURL" |grep -q '^http://\|^ftp://\|^https://';
