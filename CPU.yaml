@@ -68,7 +68,7 @@ proxies:
     
   - name: WSS
     type: vmess
-    server: www9.gogostudy.tk
+    server: www91.gogostudy.tk
     port: "443"
     uuid: 443bcb0a-7fe9-462c-a355-8484baaab6d0
     alterId: "64"
